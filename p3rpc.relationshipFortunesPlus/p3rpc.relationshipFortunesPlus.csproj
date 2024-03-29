@@ -53,6 +53,9 @@
     <None Update="Vanillaish\P3R\Content\L10N\en\Xrd777\Field\Data\DataAsset\Bf\Obj\106\BMD_OBJ_106_101_002.uasset">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Update="Vanillaish\P3R\Content\L10N\en\Xrd777\Tutorial\Daily\BMD_Tutorial_Daily_008.uasset">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="Vanillaish\P3R\Content\Xrd777\Field\Data\DataAsset\Bf\Obj\106\BF_OBJ_106_101_002.uasset">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
