@@ -162,7 +162,7 @@ param (
     $UseScriptDirectory=$True,
 
     ## => User Config <= ## 
-    $ProjectPath = "p3rpc.relationshipFortunesPlus.csproj",
+    $ProjectPath = "p3rpc.relationshipFortunesPlus/p3rpc.relationshipFortunesPlus.csproj",
     $PackageName = "p3rpc.relationshipFortunesPlus",
     $PublishOutputDir = "Publish/ToUpload",
 
